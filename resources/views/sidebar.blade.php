@@ -20,7 +20,7 @@
         <li><a href="#"><i class="fa fa-users"></i> <span>Tambah Data Pasien</span></a></li>
         <li><a href="#"><i class="fa fa-calendar"></i> <span>Tambah Data Obat</span></a></li>
         <li><a href="#"><i class="fa fa-list-ol"></i> <span>Tambah Data Poli</span></a></li>
-        <li><a href="#"><i class="fa fa-list-ol"></i> <span>Rekam Medis</span></a></li>
+        <li><a href="/rekam_medis"><i class="fa fa-list-ol" ></i> <span>Rekam Medis</span></a></li>
       </ul>
       <!-- /.sidebar-menu -->
     </section>
