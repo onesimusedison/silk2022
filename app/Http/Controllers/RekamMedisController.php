@@ -33,5 +33,11 @@ class RekamMedisController extends Controller
 		return view('rm.index',['rm' => $rm]);
  
 	}
- 
+    public function tampil()
+    {
+        return view('rm.index',[
+            // 'rm'=>RekamMedis::
+            // all()
+        ]);
+    }
 }
